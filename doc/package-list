@@ -1,0 +1,12 @@
+control
+model
+model.board
+model.board.generators
+model.pieces
+model.pieces.types
+model.players
+model.players.minimax
+model.players.minimax.estimators
+test.model.board
+test.model.pieces
+view

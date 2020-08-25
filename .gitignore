@@ -1,0 +1,7 @@
+*.iws
+workspace.xml
+tasks.xml
+*.pdf
+bin
+*.rar
+*.jar
